@@ -1,0 +1,12 @@
+server:
+  port: 8091
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 29000
+      username: java7user
+      password: root
+      database: coursedb
+

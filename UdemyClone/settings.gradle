@@ -1,0 +1,4 @@
+rootProject.name = 'UdemyClone'
+include 'course-service'
+include 'user-service'
+
